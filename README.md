@@ -7,8 +7,8 @@
 ## ***RESULTS***
 
 ### **June and December Temperature Data**
-![June Temperature](Rosources/June_Temps.png)
-![December Temperature](Rosources/December_Temps.png)
+![June Temperature](Resources/June_Temps.png)
+![December Temperature](Resources/December_Temps.png)
 
 #### From the images above we can conclude the following:
 #### 1. The average temperature in June is a little bit higher than in December, with 74.9 and 71.0 respectively. Fortunately, both months are within the average all year round, which sounds good for the business.
